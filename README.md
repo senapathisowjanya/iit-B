@@ -1,5 +1,7 @@
 ## iit-Bombay ##
 
+**URL** :-https://bombay-rosy.vercel.app/
+
 ##**Overview**##
 
 The Admin Dashboard is a comprehensive web application designed to manage and monitor various aspects of a system. The frontend, built with React and styled with Chakra UI, provides an intuitive interface for users to interact with features such as user management, data visualization, and system settings. The backend, powered by Node.js, Express, MongoDB, and Mongoose, handles API requests, data storage, and authentication, ensuring seamless communication and secure data handling between the client and server.
