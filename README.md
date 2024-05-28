@@ -36,6 +36,10 @@ The Admin Dashboard is a comprehensive web application designed to manage and mo
 - **DELETE /api/users/delete/:id**: Delete a user by ID (Admin only).
 - **POST /api/users/update/:id**: Update user details.
 
+##**Admin Credentials**##
+Email:- bombay@gmail.com
+Password:- Bombay@123
+
 **Some Glimpse of our Cloned Website**
 
 
