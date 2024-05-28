@@ -1,9 +1,10 @@
 ## iit-Bombay ##
 
-**Overview**
+##**Overview**##
+
 The Admin Dashboard is a comprehensive web application designed to manage and monitor various aspects of a system. The frontend, built with React and styled with Chakra UI, provides an intuitive interface for users to interact with features such as user management, data visualization, and system settings. The backend, powered by Node.js, Express, MongoDB, and Mongoose, handles API requests, data storage, and authentication, ensuring seamless communication and secure data handling between the client and server.
 
-**Features**
+##**Features**##
 <ul>
   <li> <h4>User Management:</h4> View, approve, disapprove, edit, and delete user accounts.</li>
   <li> <h4>Data Fetching:</h4> Fetch user data from an custom API endpoint.</li>
@@ -12,7 +13,7 @@ The Admin Dashboard is a comprehensive web application designed to manage and mo
   <li> <h4>File Handling:</h4> Upload and download user photos and resumes.</li>
 </ul>
 
-**Technologies Used**
+##**Technologies Used**##
 <ul>
   <li>React.js</li>
   <li>Chakra UI</li>
@@ -26,7 +27,7 @@ The Admin Dashboard is a comprehensive web application designed to manage and mo
   <li>JsonWebToken</li>
 </ul>
 
-**API Endpoints**
+##**API Endpoints**##
 
 - **POST /api/users/register**: Register a new user.
 - **POST /api/users/login**: Login a user.
@@ -44,3 +45,14 @@ The Admin Dashboard is a comprehensive web application designed to manage and mo
 
 
 ![Screenshot (431)](https://github.com/senapathisowjanya/iit-B/assets/119430125/c30f946d-45e6-443a-aa04-3f23d2d88409)
+
+
+![Screenshot (434)](https://github.com/senapathisowjanya/iit-B/assets/119430125/ec0ecef4-3391-4fb4-8869-e93b8d080069)
+
+
+![Screenshot (435)](https://github.com/senapathisowjanya/iit-B/assets/119430125/1dc0f053-5602-41ff-a314-f32b48e01e58)
+
+![Screenshot (436)](https://github.com/senapathisowjanya/iit-B/assets/119430125/9dd79ad5-79b3-4fcd-aa5c-89746fcfbd71)
+
+![Screenshot (437)](https://github.com/senapathisowjanya/iit-B/assets/119430125/9de853ab-588e-4e00-98f9-7cdacc373cca)
+
