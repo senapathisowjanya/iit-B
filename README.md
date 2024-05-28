@@ -37,6 +37,7 @@ The Admin Dashboard is a comprehensive web application designed to manage and mo
 - **POST /api/users/update/:id**: Update user details.
 
 ##**Admin Credentials**##
+
 Email:- bombay@gmail.com
 Password:- Bombay@123
 
